@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '39923'
     url: http://www.gutenberg.org/2009/agents/39923
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39259#Was-the-Beginning-Day-of-the-Maya-Month-Numbered-Zero--or-Twenty--or-One-
 gutenberg_issued: '2012-03-25'
 gutenberg_type: Text
 identifiers:
